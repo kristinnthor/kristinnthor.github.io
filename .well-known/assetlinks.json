@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.triptasker",
+      "sha256_cert_fingerprints": ["A8:28:AB:59:ED:52:D7:B6:2E:1C:73:B7:46:45:67:44:BD:3A:B8:9F:4E:EB:71:27:1C:E1:DF:D6:E9:5C:21:DA"]
+    }
+  }
+]
